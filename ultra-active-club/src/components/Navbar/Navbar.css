@@ -1,0 +1,25 @@
+.navbar {
+  height: 5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+
+.logo a {
+  color: #0000ff9a;
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+.profile {
+  display: flex;
+  gap: 10px;
+}
+
+.profile-img img {
+  width: 3rem;
+}
