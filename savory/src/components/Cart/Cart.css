@@ -1,0 +1,17 @@
+.cart h2 {
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: white;
+  margin-top: 0.5rem;
+}
+
+.cart-item-button button {
+  cursor: pointer;
+}

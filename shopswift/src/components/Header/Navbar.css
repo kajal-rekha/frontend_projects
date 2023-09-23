@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #29445a;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 112px;
+  align-items: center;
+  height: 5rem;
+}
+
+.menu-items {
+  display: flex;
+  gap: 2rem;
+}
+
+.menu-items li a {
+  font-size: 17px;
+  font-weight: 500;
+  color: white;
+}
+
+.logo li {
+  list-style: none;
+}
+.logo li a {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: white;
+}

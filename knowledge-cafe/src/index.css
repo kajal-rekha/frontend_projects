@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  border: none;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5rem;
+  padding: 0 50px;
+}
+
+.logo a {
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-img {
+  width: 3rem;
+}
+
+.nav-img img {
+  width: 100%;
+}
+
+.knowledge-cafe-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 4rem;
+  margin-top: 3rem;
+  padding: 0 35px;
+}
+
+.knowledge-img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.knowledge-card {
+  margin-bottom: 5rem;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.18);
+  border-radius: 10px;
+}
+
+.knowledge-des {
+  padding: 10px;
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.user-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user {
+  display: flex;
+  gap: 10px;
+}
+
+.user-img {
+  width: 3rem;
+}
+
+.user-img img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.read-times {
+  display: flex;
+  gap: 5px;
+}
+
+.heading-title {
+  margin-top: 1rem;
+  padding: 10px;
+}
+
+.heading-title h2 {
+  font-size: 1.5rem;
+}
+
+.tags {
+  font-size: 1.1rem;
+  margin-top: 10px;
+}
+
+.mark-btn {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.mark-btn button {
+  font-size: 1rem;
+  color: #3f1188;
+  font-weight: 500;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.knowledge-cafe-cart {
+  margin-top: 1rem;
+}
+
+.cart .spent-times {
+  width: 100%;
+  border: 2px solid #3f1188ad;
+  padding: 14px;
+  border-radius: 5px;
+}
+
+.cart .spent-times h4 {
+  color: #3f1188bd;
+  text-align: center;
+}
+
+.cart .cart-time {
+  padding-top: 2rem;
+  background-color: blue;
+}
+
+.bookmark {
+  cursor: pointer;
+}
+
+.cart-item {
+  margin-top: 3rem;
+}
+
+.cart-item .cart-heading {
+  margin-top: 1rem;
+  background-color: #f5deb373;
+  padding: 12px;
+}
+.bookmark-blog {
+  margin-top: 3rem;
+}
+
+.bookmarked {
+  color: black;
+}
+
+.violet {
+  color: #3f1188bd;
+}

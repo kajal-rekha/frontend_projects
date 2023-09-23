@@ -1,0 +1,13 @@
+.order-cart {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+.order-cart h3 {
+  margin-bottom: 1.5rem;
+}
+
+.order-cart p {
+  margin-top: 1rem;
+}

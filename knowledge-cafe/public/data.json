@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "property_image": "https://www.codingdojo.com/blog/wp-content/uploads/learncodefaster.jpg",
+    "user_image": "https://images.crunchbase.com/image/upload/c_thumb,h_256,w_256,f_auto,g_faces,z_0.7,q_auto:eco,dpr_1/g8vyibczmwbtgytisjdr",
+    "user_name": "John Doe",
+    "user_title": "Software Engineer",
+    "heading_title": "10 Tips for Landing Your Dream Programming Job",
+    "tags": ["programming", "job search", "career"],
+    "read_time": 8
+  },
+  {
+    "id": 2,
+    "property_image": "https://www.onlinedegree.com/wp-content/uploads/2016/11/computer_programmer.jpg",
+    "user_image": "https://i.stack.imgur.com/5qpnc.png?s=256&g=1",
+    "user_name": "Jane Smith",
+    "user_title": "Front-End Developer",
+    "heading_title": "Mastering HTML and CSS for Web Development",
+    "tags": ["HTML", "CSS", "front-end", "web development"],
+    "read_time": 12
+  },
+  {
+    "id": 3,
+    "property_image": "https://st4.depositphotos.com/12981370/24312/i/450/depositphotos_243120806-stock-photo-programmer-working-software-development-coding.jpg",
+    "user_image": "https://cbcimg.b-cdn.net/p256x0/user/EGmrTGRNuq/photo/KOilZrW/profile-photo.jpg",
+    "user_name": "David Brown",
+    "user_title": "Full-Stack Developer",
+    "heading_title": "Effective Debugging Techniques for Programmers",
+    "tags": ["programming", "debugging", "development"],
+    "read_time": 10
+  },
+  {
+    "id": 4,
+    "property_image": "https://res.cloudinary.com/highereducation/images/w_1024,h_683,c_scale/f_auto,q_auto/v1670889185/ComputerScience.org/day-in-the-life-of-a-comp-programmer/day-in-the-life-of-a-comp-programmer-1024x683.jpg",
+    "user_image": "https://www.eur.nl/sites/corporate/files/styles/square_256_256/public/2023-03/ae-kuiper.jpg.webp?h=04d92ac6&itok=0zdX3QNu",
+    "user_name": "Sarah Johnson",
+    "user_title": "Web Designer",
+    "heading_title": "Creating User-Centered Design for Websites",
+    "tags": ["web design", "user experience", "UI/UX"],
+    "read_time": 9
+  },
+  {
+    "id": 5,
+    "property_image": "https://www.wgu.edu/content/dam/web-sites/blog-newsroom/blog/images/national/2019/august/degree-or-certificate.jpg",
+    "user_image": "https://i.stack.imgur.com/fWaOv.png?s=256&g=1",
+    "user_name": "Michael White",
+    "user_title": "Back-End Developer",
+    "heading_title": "Building Scalable APIs with Node.js and Express",
+    "tags": ["Node.js", "Express", "API development", "back-end"],
+    "read_time": 15
+  },
+  {
+    "id": 6,
+    "property_image": "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_407112565.2e16d0ba.fill-1200x630.jpg",
+    "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamZYhkIcTIVdsqYRNI7IMeIIJ-1_Agm-6RQ&usqp=CAU",
+    "user_name": "Emily Green",
+    "user_title": "Database Administrator",
+    "heading_title": "Database Optimization Best Practices",
+    "tags": ["database optimization", "SQL", "back-end"],
+    "read_time": 11
+  },
+  {
+    "id": 7,
+    "property_image": "https://contentstatic.techgig.com/thumb/msid-87363459,width-1200,height-900,resizemode-4/87363459.jpg",
+    "user_image": "https://speakerhub.com/sites/default/files/user/profile_picture/2022/09/10/rashad-fant.png",
+    "user_name": "Robert Lewis",
+    "user_title": "DevOps Engineer",
+    "heading_title": "Implementing Continuous Integration and Deployment (CI/CD)",
+    "tags": ["DevOps", "CI/CD", "automation"],
+    "read_time": 14
+  },
+  {
+    "id": 8,
+    "property_image": "https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/07/tes_gen_blog_code1.jpg",
+    "user_image": "https://jindal.utdallas.edu/files/2023/09/sarah_moore-256-256.jpg",
+    "user_name": "Olivia Turner",
+    "user_title": "Front-End Developer",
+    "heading_title": "The Power of CSS Preprocessors: SASS and LESS",
+    "tags": ["CSS", "SASS", "LESS", "front-end"],
+    "read_time": 10
+  },
+  {
+    "id": 9,
+    "property_image": "https://dataspace.com/wp-content/uploads/2017/05/Fotolia_111797760_Subscription_Monthly_M.jpg",
+    "user_image": "https://i.stack.imgur.com/nrQLj.jpg?s=256&g=1",
+    "user_name": "William Clark",
+    "user_title": "Web Developer",
+    "heading_title": "Building Real-Time Web Applications with WebSocket",
+    "tags": ["WebSocket", "real-time", "web development"],
+    "read_time": 13
+  },
+
+  {
+    "id": 10,
+    "property_image": "https://in2english.net/wp-content/uploads/2018/12/compute-programmer.jpg",
+    "user_image": "https://cbcimg.b-cdn.net/p256x0/user/SopG0FqI/photo/KM3Ugj6/profile-photo.jpg",
+    "user_name": "Daniel Adams",
+    "user_title": "Software Engineer",
+    "heading_title": "Exploring Cloud Computing: AWS, Azure, and Google Cloud",
+    "tags": ["cloud computing", "AWS", "Azure", "Google Cloud"],
+    "read_time": 14
+  },
+  {
+    "id": 11,
+    "property_image": "https://usa.bootcampcdn.com/wp-content/uploads/sites/119/2020/12/tes_gen_blog_code7-1-800x412.jpg",
+    "user_image": "https://www.gov.scot/binaries/content/gallery/people/mairi-mcallan-2023-512-jpg/mairi-mcallan-2023-512-jpg/govscot%3Axlargethreecolumnssquare",
+    "user_name": "Ella Moore",
+    "user_title": "Security Analyst",
+    "heading_title": "Web Application Security Best Practices",
+    "tags": ["web security", "security", "best practices"],
+    "read_time": 9
+  },
+  {
+    "id": 12,
+    "property_image": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/01/09151859/coding-bootcamp-1024x486.png",
+    "user_image": "https://media.licdn.com/dms/image/C4D03AQHfZaoeMoLGUA/profile-displayphoto-shrink_800_800/0/1516823233092?e=2147483647&v=beta&t=8bMbW_ytnGRaQCpPtQcxDzpFGsuaEvcxgSu7H7zTcI4",
+    "user_name": "Liam Wilson",
+    "user_title": "Software Engineer",
+    "heading_title": "API Design: Creating RESTful Interfaces",
+    "tags": ["API design", "RESTful", "web development"],
+    "read_time": 10
+  },
+  {
+    "id": 13,
+    "property_image": "https://cdn2.system1.com/eyJidWNrZXQiOiJvbS1wdWItc3RvcmFnZSIsImtleSI6IndhbGxldGdlbml1cy93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wMi9zaHV0dGVyc3RvY2tfMTc3NDYxMjQwNi5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjQwfX19",
+    "user_image": "https://media.licdn.com/dms/image/C5103AQEHmALdHlnGUQ/profile-displayphoto-shrink_400_400/0/1517011392968?e=1700697600&v=beta&t=TX25PVnZVLhOf-8dLVT-1qq1nqvYMPqKvM6yi_r5mcw",
+    "user_name": "Ava Brown",
+    "user_title": "DevOps Engineer",
+    "heading_title": "Containerization with Docker: Simplifying Deployment",
+    "tags": ["Docker", "DevOps", "containerization"],
+    "read_time": 11
+  },
+  {
+    "id": 14,
+    "property_image": "https://www.manchesterdigital.com/storage/2501/code-coding-programming-html.jpg",
+    "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrlpdx0RsWjc1kITc4DVEeCdBCsKJghAOYKQ&usqp=CAU",
+    "user_name": "Noah Miller",
+    "user_title": "Software Engineer",
+    "heading_title": "Mastering Git and Version Control",
+    "tags": ["Git", "version control", "programming"],
+    "read_time": 10
+  }
+]

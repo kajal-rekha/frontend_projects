@@ -1,0 +1,17 @@
+.products-section {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 2rem;
+  margin: 6rem 3rem;
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.product-cart {
+  background-color: #29445a;
+  height: 100vh;
+}

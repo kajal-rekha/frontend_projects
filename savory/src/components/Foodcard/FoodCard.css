@@ -1,0 +1,33 @@
+.food-card {
+  background-color: #001f27;
+  width: 100%;
+  height: 25rem;
+  border-radius: 5px;
+}
+
+.food-img {
+  width: 100%;
+  height: 12rem;
+  padding: 1rem;
+}
+
+.food-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.food-des {
+  padding: 1rem;
+  color: white;
+}
+.card-btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.card-btn button {
+  border: 2px solid gray;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
