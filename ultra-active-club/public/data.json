@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Karate",
+    "image": "https://img.olympicchannel.com/images/image/private/t_s_w960/t_s_16_9_g_auto/f_auto/primary/bitauaaqprdxa5h6wesa",
+    "category": "Striking",
+    "description": "Learn the art of Karate, a powerful striking martial art with a focus on discipline and self-defense.",
+    "age": "20-25",
+    "time_required": "1 hour"
+  },
+  {
+    "id": 2,
+    "name": "Judo",
+    "image": "https://www.european-games.org/wp-content/uploads/2022/10/GettyImages-1326167382.jpg",
+    "category": "Grappling",
+    "description": "Join our Judo classes to master throws, pins, and joint locks while building strength and balance.",
+    "age": "20-25",
+    "time_required": "1.5 hours "
+  },
+  {
+    "id": 3,
+    "name": "Brazilian Jiu-Jitsu",
+    "image": "https://i.ytimg.com/vi/Kzo_lLvTEUE/sddefault.jpg",
+    "category": "Grappling",
+    "description": "Experience the ground game with Brazilian Jiu-Jitsu, focusing on submission holds and positional.",
+    "age": "20-25",
+    "time_required": "1.5 hours "
+  },
+  {
+    "id": 4,
+    "name": "Striking",
+    "image": "https://www.kravmaga.com/wp-content/uploads/2020/01/krav-maga-striking-knife-defense-darren-levine.jpg",
+    "category": "Striking",
+    "description": "Train in the art of eight limbs with Muay Thai, emphasizing kicks, elbows, knees, and clinch.",
+    "age": "20-25",
+    "time_required": "1 hour "
+  },
+  {
+    "id": 5,
+    "name": "Taekwondo",
+    "image": "https://koryo.club/wp-content/uploads/2022/01/What-is-the-order-of-belts-in-Taekwondo.jpg",
+    "category": "Striking",
+    "description": "Discover the high-energy kicks and strikes of Taekwondo, an Olympic martial art for all ages.",
+    "age": "20-25",
+    "time_required": "1 hour "
+  },
+  {
+    "id": 6,
+    "name": "Aikido",
+    "image": "https://ychef.files.bbci.co.uk/976x549/p0g8h4cg.jpg",
+    "category": "Self-Defense",
+    "description": "Learn Aikido, a martial art focused on redirecting an opponent's energy and protecting oneself.",
+    "age": "20-25",
+    "time_required": "1.5 "
+  },
+  {
+    "id": 7,
+    "name": "Krav Maga",
+    "image": "https://img.mensxp.com/media/content/2016/Mar/why-krav-maga-should-be-your-next-go-to-workout2-1459163428.jpg",
+    "category": "Self-Defense",
+    "description": "Master Krav Maga, a practical self-defense system known for its efficiency and real-world.",
+    "age": "20-25",
+    "time_required": "2 hours"
+  },
+  {
+    "id": 8,
+    "name": "Capoeira",
+    "image": "https://hillcrestarts.com/storage/class_header_image/hillcrestarts/4f72615f7e76a0ede10a98d34ea8282fc6c7dfa1.webp",
+    "category": "Dance-Combat",
+    "description": "Experience the fusion of martial arts and dance in Capoeira, a Brazilian cultural treasure.",
+    "age": "20-25",
+    "time_required": "1.5 hours"
+  },
+  {
+    "id": 9,
+    "name": "Kung Fu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Shi_DeRu_and_Shi_DeYang.jpg/640px-Shi_DeRu_and_Shi_DeYang.jpg",
+    "category": "Striking",
+    "description": "Train in traditional Chinese martial arts with Kung Fu, exploring various styles and forms.",
+    "age": "20-25",
+    "time_required": "1.5 hours"
+  },
+  {
+    "id": 10,
+    "name": "Kickboxing",
+    "image": "https://thekickhouse.com/wp-content/uploads/2020/09/ClassTypes_2400x1400-1024x597.jpg",
+    "category": "Striking",
+    "description": "Get in shape while learning Kickboxing, a high-intensity workout that improves cardio.",
+    "age": "20-25",
+    "time_required": "1 hour "
+  },
+  {
+    "id": 11,
+    "name": "Wing Chun",
+    "image": "https://www.kungfuforlife.ca/uploads/5/8/1/9/58194135/the-martial-art-of-wing-chun-calgary_orig.jpg",
+    "category": "Striking",
+    "description": "Practice the close-range combat style of Wing Chun, known for its quick and powerful strikes.",
+    "age": "20-25",
+    "time_required": "1 hour"
+  },
+  {
+    "id": 12,
+    "name": "Kendo",
+    "image": "https://kendojidai.com/wp-content/uploads/2023/09/ijima-ashisabaki-30-520x400.jpg",
+    "category": "Weaponry",
+    "description": "Explore the art of Japanese swordsmanship with Kendo, using bamboo swords (shinai).",
+    "age": "20-25",
+    "time_required": "1.5 hours"
+  }
+]

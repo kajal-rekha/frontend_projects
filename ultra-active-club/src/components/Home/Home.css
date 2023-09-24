@@ -1,0 +1,30 @@
+.home {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 1rem;
+}
+
+.ultra-club-left {
+  padding: 6rem 3rem;
+  background-color: #f3e6e6;
+}
+
+.logo {
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #816df0;
+}
+
+.title {
+  padding-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.ultra-club {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.ultra-club-right {
+}

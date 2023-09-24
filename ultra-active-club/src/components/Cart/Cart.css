@@ -1,0 +1,85 @@
+.cart {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.user {
+  display: flex;
+  gap: 10px;
+}
+
+.user-img {
+  width: 3rem;
+}
+.user-img img {
+  width: 100%;
+}
+
+.user-name p {
+  font-size: small;
+}
+
+.weight-circle {
+  display: flex;
+  padding: 1rem;
+  margin-top: 3rem;
+  justify-content: space-between;
+  background-color: #f3e6e683;
+}
+
+.weight-circle span {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.break {
+  margin-top: 2.5rem;
+}
+
+.circles {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3e6e683;
+  padding: 1rem 0.8rem;
+  margin-top: 1rem;
+}
+
+.circle {
+  font-weight: 600;
+  background-color: #816df0;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+}
+
+.exercise-details {
+  margin-top: 2.5rem;
+}
+
+.exercise-time {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3e6e683;
+  padding: 1rem 0.8rem;
+  margin-top: 1rem;
+}
+
+.breake-time {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3e6e683;
+  padding: 1rem 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.exercise-details .sceconds {
+  color: gray;
+}
+
+.exercise-details .time {
+  font-weight: 600;
+}
+
+.btn {
+  width: 100%;
+}
