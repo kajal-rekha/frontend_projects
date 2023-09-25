@@ -1,11 +1,17 @@
 import { useState } from "react";
 import "./Cart.css";
 
-const Cart = ({ cart }) => {
-  const [selectedValue, setSelectedValue] = useState(0);
+const Cart = ({ exerciseTime }) => {
+  const [selectedValue, setSelectedValue] = useState(false);
 
-  const handleCircleValue = (circle) => {
-    setSelectedValue(circle);
+  let totalExerciseTime = 0;
+
+  for (const blog of exerciseTime) {
+    totalExerciseTime = totalExerciseTime + blog.time_required;
+  }
+  const handleCircleValue = (value) => {
+    setSelectedValue(value);
+    console.log(value);
   };
 
   return (
@@ -66,11 +72,11 @@ const Cart = ({ cart }) => {
           <h4> Exercise Details</h4>
           <div className="exercise-time">
             <p className="time">Exercise Time</p>
-            <p className="sceconds">10 seconds</p>
+            <p className="sceconds">{totalExerciseTime} sec</p>
           </div>
           <div className="breake-time">
             <p className="time">Breake Time</p>
-            <p className="sceconds">10 seconds</p>
+            <p className="sceconds">{selectedValue} sec</p>
           </div>
         </div>
         <button className="btn">Activity Completed</button>

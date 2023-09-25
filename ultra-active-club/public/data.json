@@ -6,7 +6,7 @@
     "category": "Striking",
     "description": "Learn the art of Karate, a powerful striking martial art with a focus on discipline and self-defense.",
     "age": "20-25",
-    "time_required": "1 hour"
+    "time_required": "30"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "category": "Grappling",
     "description": "Join our Judo classes to master throws, pins, and joint locks while building strength and balance.",
     "age": "20-25",
-    "time_required": "1.5 hours "
+    "time_required": "35"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "category": "Grappling",
     "description": "Experience the ground game with Brazilian Jiu-Jitsu, focusing on submission holds and positional.",
     "age": "20-25",
-    "time_required": "1.5 hours "
+    "time_required": "40"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "category": "Striking",
     "description": "Train in the art of eight limbs with Muay Thai, emphasizing kicks, elbows, knees, and clinch.",
     "age": "20-25",
-    "time_required": "1 hour "
+    "time_required": "50"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "category": "Striking",
     "description": "Discover the high-energy kicks and strikes of Taekwondo, an Olympic martial art for all ages.",
     "age": "20-25",
-    "time_required": "1 hour "
+    "time_required": "50"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "category": "Self-Defense",
     "description": "Learn Aikido, a martial art focused on redirecting an opponent's energy and protecting oneself.",
     "age": "20-25",
-    "time_required": "1.5 "
+    "time_required": "40"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "category": "Self-Defense",
     "description": "Master Krav Maga, a practical self-defense system known for its efficiency and real-world.",
     "age": "20-25",
-    "time_required": "2 hours"
+    "time_required": "20"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "category": "Dance-Combat",
     "description": "Experience the fusion of martial arts and dance in Capoeira, a Brazilian cultural treasure.",
     "age": "20-25",
-    "time_required": "1.5 hours"
+    "time_required": "25"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "category": "Striking",
     "description": "Train in traditional Chinese martial arts with Kung Fu, exploring various styles and forms.",
     "age": "20-25",
-    "time_required": "1.5 hours"
+    "time_required": "30"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "category": "Striking",
     "description": "Get in shape while learning Kickboxing, a high-intensity workout that improves cardio.",
     "age": "20-25",
-    "time_required": "1 hour "
+    "time_required": "45 "
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "category": "Striking",
     "description": "Practice the close-range combat style of Wing Chun, known for its quick and powerful strikes.",
     "age": "20-25",
-    "time_required": "1 hour"
+    "time_required": "35"
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "category": "Weaponry",
     "description": "Explore the art of Japanese swordsmanship with Kendo, using bamboo swords (shinai).",
     "age": "20-25",
-    "time_required": "1.5 hours"
+    "time_required": "25"
   }
 ]

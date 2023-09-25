@@ -50,6 +50,7 @@
   border-radius: 50%;
   padding: 10px;
   color: white;
+  cursor: pointer;
 }
 
 .exercise-details {
@@ -73,7 +74,7 @@
 }
 
 .exercise-details .sceconds {
-  color: gray;
+  color: #535050;
 }
 
 .exercise-details .time {
