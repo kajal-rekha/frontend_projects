@@ -38,3 +38,26 @@
   font-size: 1rem;
   font-weight: 600;
 }
+
+.add-list-btn {
+  background-color: #816df0;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  border: 0;
+  padding: 0.7rem;
+  border-radius: 10px;
+  width: 100%;
+}
+.added-color {
+  background-color: #5e9b58;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  color: white;
+  border: 0;
+  padding: 0.7rem;
+  border-radius: 10px;
+  width: 100%;
+}
