@@ -2,13 +2,14 @@ import { useState } from "react";
 import "./Cart.css";
 
 const Cart = ({ exerciseTime }) => {
-  const [selectedValue, setSelectedValue] = useState(false);
+  const [selectedValue, setSelectedValue] = useState(0);
 
   let totalExerciseTime = 0;
 
-  for (const blog of exerciseTime) {
-    totalExerciseTime = totalExerciseTime + blog.time_required;
+  for (const data of exerciseTime) {
+    totalExerciseTime = totalExerciseTime + data.time_required;
   }
+
   const handleCircleValue = (value) => {
     setSelectedValue(value);
     console.log(value);
